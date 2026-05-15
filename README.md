@@ -21,6 +21,7 @@ practice files, and mini projects.
 
 ## Courses Completed
 - ✅ CS50x 2026 — Harvard University
+-    Python basic to Advance
 - ✅ Claude 101
 ## Goals
 - Build a strong ML foundation
