@@ -3,7 +3,7 @@
 A running log of everything I'm learning in AI and Machine Learning 
 from Python basics to building real projects.
 
-I'm a self-taught learner documenting my journey through code,
+I'm a self taught learner documenting my journey through code,
 practice files, and mini projects.
 
 ## What's Inside
