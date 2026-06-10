@@ -27,3 +27,4 @@ practice files, and mini projects.
 - Build a strong ML foundation
 - Work on real-world projects
 - Pursue a expertise in AI/ML
+- This log is a part of my Notes and proof of my Consistency for myself.
