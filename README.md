@@ -19,12 +19,8 @@ practice files, and mini projects.
 | `projects/` | Real apps and end-to-end projects |
 | `courses/` | Notes and code from courses I've completed |
 
-## Courses Completed
-- ✅ CS50x 2026 — Harvard University
--    Python basic to Advance
-- ✅ Claude 101
 ## Goals
 - Build a strong ML foundation
-- Work on real-world projects
+- Work on real world projects
 - Pursue a expertise in AI/ML
 - This log is a part of my Notes and proof of my Consistency for myself.
